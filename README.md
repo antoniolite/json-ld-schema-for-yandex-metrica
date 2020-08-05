@@ -87,9 +87,11 @@ Yes, Yandex.Metrica has an excellent [documentation and support](https://yandex.
 
 ## Changelog
 
-### 1.1
+### 1.1 (01.08.2020)
+
 * Updated the BreadcrumbList element to include main category and the subcategory if it exists
 
-### 1.0
+### 1.0 (26.06.2020)
+
 * First release
 
