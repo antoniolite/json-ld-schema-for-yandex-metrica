@@ -2,6 +2,8 @@
 
 WordPress plugin to insert the needed JSON-LD Schema in your post pages so you can use the content reports in Yandex.Metrica
 
+**Plugins page:** https://wordpress.org/plugins/antoniolite-yandex-metrica-json-ld-schema/
+
 ## Description
 
 Yandex.Metrica is a Yandex's free tool for everyone to track your website. This plugins inserts the needed JSON-LD Schema in your post pages so you can use the content reports in Yandex.Metrica.
