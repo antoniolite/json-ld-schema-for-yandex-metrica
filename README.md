@@ -1,6 +1,6 @@
 # JSON-LD Schema for Yandex.Metrica
 
-Insert the needed JSON-LD Schema in your post pages so you can use the content reports in Yandex.Metrica
+WordPress plugin to insert the needed JSON-LD Schema in your post pages so you can use the content reports in Yandex.Metrica
 
 ## Description
 
